@@ -1,5 +1,12 @@
-### Hi there 👋
+Hi there! I'm Evelina.
+I’m currently learning SQL, Python.
 
+Contacts:
+
+Telegram:
+@aesrare
+
+E-mail: evelina.lashkkova@gmail.com
 <!--
 **aesrare/aesrare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
