@@ -1,7 +1,7 @@
 
 <html>
   <body>
-    <p>Hi there! I'm Evelina. I’m currently learning SQL(DDL, DML), Python.</p>
+    <p>Hi there! I'm Evelina. I’m currently learning SQL(DDL, DML), html, css Python.</p>
     <h2>Education:</h2>
     <h3>Certifications</h3>
     <ul>
